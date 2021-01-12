@@ -1,0 +1,21 @@
+{
+  "name": "x_flowerbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "openzeppelin-solidity": "^3.3.0"
+  },
+  "devDependencies": {
+    "@openzeppelin/test-helpers": "^0.5.9",
+    "@openzeppelin/truffle-upgrades": "^1.3.1"
+  }
+}
